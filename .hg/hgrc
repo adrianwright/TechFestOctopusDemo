@@ -1,0 +1,15 @@
+[paths]
+default = https://adriantwright@bitbucket.org/adriantwright/techfest-octopus
+[ui]
+username = Adrian Wright <adrian@summa-tech.com>
+[extensions]
+rebase =
+shelve=
+hgext.purge=
+mq=
+[tortoisehg]
+postpull = rebase
+[auth]
+bb.prefix = https://adriantwright@bitbucket.org/adriantwright/techfest-octopus
+bb.username = adriantwright
+bb.password = Aestop04

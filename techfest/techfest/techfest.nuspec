@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TechFest.Demo</id>
+    <title>TechFest.Demo</title>
+	<version>1.0</version>
+    <authors>Adrian Wright</authors>
+    <owners>Adrian Wright</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tech Fest Demo</description>
+  </metadata>
+</package>
